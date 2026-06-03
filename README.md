@@ -18,4 +18,9 @@ The robot receives motion commands from a smartphone via Bluetooth UART. Simulta
 - Keil uVision
 
 ## Demo
-[Add photo or video here]
+[Video 1 -phone app ](4f603d04-ce4f-4a90-a6eb-a1fa5e1548c7.mp4)
+
+[Video 2 - both](5ac1a772-7c3d-4e9a-acb7-c4f45f85f58d.mp4)
+
+[Video 3 - Robot moving](66afb009-3d6d-4729-aad8-c85ca6d19989.mp4)
+
